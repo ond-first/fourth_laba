@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="8" Y="10"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="D:/temp/laba_na_mainmenu/unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="72" Y="118"/>
+        <UsageCount Value="22"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="D:/temp/laba_na_mainmenu/unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="34" Y="3"/>
+        <UsageCount Value="22"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:/temp/laba_na_mainmenu/unit3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit3"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="27" Y="14"/>
+        <UsageCount Value="21"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/lib/lazarus/2.0.12/lcl/grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9929"/>
+        <CursorPos Y="9946"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../6 апреля/unit2.pas"/>
+        <UnitName Value="Unit2"/>
+        <TopLine Value="47"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../6 апреля/unit2.lfm"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="../6 апреля/unit2.lfm"/>
+      </Position1>
+      <Position2>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="10" Column="16"/>
+      </Position2>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
